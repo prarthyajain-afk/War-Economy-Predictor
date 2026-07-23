@@ -43,7 +43,19 @@ War-Economy-Predictor/
 │── .gitignore
 │── README.md
 ```
+## Application Preview
 
+### home page and overview
+![home page](<home page.png>)
+![overview](<overview graphs.png>)
+
+### Model Analysis
+
+![model analysis](<model analysis.png>)
+
+### Prediction
+
+![model prediction](<model prediction.png>)
 ## Installation
 Clone the repository:
 ```bash
